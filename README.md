@@ -7,4 +7,4 @@ UnknownBean/UnknownBean is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/UnknownBean/github-stats/master/generated/overview.svg#gh-dark-mode-only)
